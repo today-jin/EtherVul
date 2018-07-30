@@ -20,12 +20,13 @@ After the owner of the contract mint  0x8000000000000000000000000000000000000000
 Send once.
 
 [![Send once](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbpgzoj30um07kaa1.jpg "Send once")](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbpgzoj30um07kaa1.jpg "Send once")
-[![Tax](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbseu9j30ti08mwev.jpg "Tax")](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbseu9j30ti08mwev.jpg "Tax")
+[![send twice](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbtr4gj30tg08mt93.jpg "tax1")](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbtr4gj30tg08mt93.jpg "tax1")
 [![amount once](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fts5tbsrc6j30u8086t8r.jpg "amount once")](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fts5tbsrc6j30u8086t8r.jpg "amount once")
 
 Then send twice.
 
-[![send twice](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbtr4gj30tg08mt93.jpg "send twice")](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fts5tbtr4gj30tg08mt93.jpg "send twice")
+[![Tax](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbseu9j30ti08mwev.jpg "tax2")](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbseu9j30ti08mwev.jpg "tax2")
+
 
 The amount is return to 0.
 
