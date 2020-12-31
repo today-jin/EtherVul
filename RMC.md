@@ -29,5 +29,5 @@ Then send twice.
 
 
 The amount is return to 0.
-
+ 
 [![amount twice](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbslg9j30u408oaa1.jpg "amount twice")](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fts5tbslg9j30u408oaa1.jpg "amount twice")
